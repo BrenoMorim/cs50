@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: It was slower than selection sort in the random and the reversed database, however it even faster than merge sort in the sorted case
+
+sort2 uses: merge sort
+
+How do you know?: It was the fastest program, even at the largest input it only took less than a second to run, and the smaller cases were also faster
+
+sort3 uses: selection sort
+
+How do you know?: It didn't matter if it was sorted, reversed or random, the algorithm was taking about the same time to do the task and was slow with the largest inputs (about 4 seconds)
