@@ -1,0 +1,29 @@
+Facebook e Fake News
+Considere cada uma das propostas abaixo e responda cada uma das perguntas abaixo.
+
+Propostas
+
+Proposta 1
+
+O Facebook depende de um algoritmo, bem como de relatórios de usuários individuais para identificar o conteúdo que é potencialmente "fake news”. Assim que o conteúdo for identificado, ele será enviado a verificadores de fatos terceirizados para averiguação. Se o conteúdo for considerado fake news, ele será sinalizada publicamente com um aviso de que o conteúdo é contestado por verificadores de fatos.
+
+Proposta 2
+
+No entanto, um designer do Facebook acredita que deve haver uma abordagem diferente para a regulamentação de conteúdo.
+A proposta deles é que o conteúdo considerado problemático por verificadores de fatos terceirizados deve ser totalmente impedido de ser compartilhado na plataforma.
+
+Perguntas
+1. Qual forma de regulamento de conteúdo, Proposta 1 ou Proposta 2, você acha que é melhor? Por que?
+
+A primeira proposta, que é mais branda, parece ser a melhor opção, pois uma intervenção radical como a proposta 2 com certeza será alvo de protestos a favor da liberdade de expressão, que considerarão essa medida como autoritária. Além de que é impossível afirmar com certeza absoluta que uma publicação é falsa, erros podem e vão acontecer, porém com medidas mais brandas como a primeira esses erros não terão um impacto tão relevante.
+
+2. Qual forma de regulamento de conteúdo, Proposta 1 ou Proposta 2, você acha que melhor preserva ou promove os cinco direitos e oportunidades necessários para uma esfera pública democrática (esse link deverá levá-lo a uma página com um vídeo e um texto que será traduzido automaticamente - você não precisa ver o vídeo, somente ler a parte sobre “Cinco direitos e oportunidades para uma esfera pública democrática”)?
+
+a. Qual proposta preserva ou promove melhor Direitos? Por que?
+b. Qual proposta preserva ou promove melhor a Oportunidade de Expressão? Por que?
+c. Qual proposta preserva ou promove melhor o Acesso? Por que?
+d. Qual proposta melhor preserva ou promove a Diversidade? Por que?
+e. Qual proposta preserva ou promove melhor o Poder Comunicativo? Por que?
+
+A proposta 1 é a mais democrática, pois permite ao máximo a liberdade de expressão, simplesmente avisando os usuários sobre a possibilidade do conteúdo ser falso, o que instiga o pensamento crítico dos leitores. Além de que permitindo que as postagens consideradas falsas continuem na plataforma abre espaço para discussões nos comentários, o que permite que outros usuários expressem suas visões ou até que expliquem porque a postagem em questão não é confiável. Numa democracia, o ideal seria promover o diálogo e não censurar outras opiniões, mesmo que baseadas em inverdades.
+
