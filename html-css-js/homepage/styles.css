@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    padding: 2rem;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 1.5rem;
+}
+.title {
+    background-color: #DEDEDE;
+}
+.nav-list li {
+    list-style: none;
+}
+.nav-list li a {
+    font-size: 2rem;
+    color: darkblue;
+}
+.code {
+    padding: 1.25rem;
+    background-color: #DEDEDE;
+    color: firebrick;
+    display: block;
+    border: 2px solid firebrick;
+    font-weight: 600;
+}

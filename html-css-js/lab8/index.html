@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+
+        <script>
+
+            document.addEventListener('DOMContentLoaded', () => {
+
+                const phpButton = document.querySelector("#php");
+                const javaButton = document.querySelector("#java");
+                const cppButton = document.querySelector("#cpp");
+
+                const message = document.querySelector("#message");
+                javaButton.addEventListener('click', () => {
+                    message.textContent = "Incorrect!";
+                    javaButton.classList.add("wrong-button");
+                    setTimeout(() => {
+                        message.textContent = "";
+                        javaButton.classList.remove("wrong-button");
+                    }, 3000);
+                });
+
+                cppButton.addEventListener('click', () => {
+                    message.textContent = "Incorrect!";
+                    cppButton.classList.add("wrong-button");
+                    setTimeout(() => {
+                        message.textContent = "";
+                        cppButton.classList.remove("wrong-button");
+                    }, 3000);
+                });
+
+                phpButton.addEventListener('click', () => {
+                    message.textContent = "Correct";
+                    phpButton.classList.add("right-button");
+                    setTimeout(() => {
+                        message.textContent = "";
+                        phpButton.classList.remove("right-button");
+                    }, 3000);
+                });
+
+                const form = document.querySelector("#free-reponse-form");
+                form.addEventListener('submit', (event) => {
+                    event.preventDefault();
+                    const message = document.querySelector("#free-response-message");
+
+                    if (form.response.value.includes("malloc"))
+                    {
+                        form.classList.add("right-text");
+                        message.classList.add("right-text");
+                        message.textContent = "Correct!";
+                    } else {
+                        form.classList.add("wrong-text");
+                        message.classList.add("wrong-text");
+                        message.textContent = "Incorrect!";
+                    }
+                });
+            });
+
+        </script>
+
+    </head>
+    <body>
+
+        <div class="jumbotron">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <div class="alternatives">
+                    <h3 class="question">Which of these languages you don't need to compile the code before running?</h3>
+                    <button class="alternative" id="java">Java</button>
+                    <button class="alternative" id="cpp">C++</button>
+                    <button class="alternative" id="php">PHP</button>
+                </div>
+                <p id="message"></p>
+
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <div class="free-response">
+                    <h3 class="question">What's the name of the function we can use to allocate memory in C?</h3>
+                    <form id="free-reponse-form">
+                        <input autocomplete="off" type="text" name="response" id="response" placeholder="Your response"\>
+                        <input type="submit" value="Submit Reponse" />
+                    </form>
+                    <p id="free-response-message"></p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
