@@ -19,3 +19,7 @@ O objetivo principal do curso é ensinar os conceitos de computação e instigar
 - HTML, CSS e JavaScript
 - Flask
 - Ética
+
+## Imagem do projeto final
+
+![](https://github.com/BrenoMorim/cs50/blob/main/flask/finance/final-project.png?raw=true)
