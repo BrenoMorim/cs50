@@ -22,4 +22,4 @@ O objetivo principal do curso é ensinar os conceitos de computação e instigar
 
 ## Imagem do projeto final
 
-![](https://github.com/BrenoMorim/cs50/blob/main/flask/finance/final-project.png?raw=true)
+![alt="Página Inicial do projeto final CS Finance"](https://github.com/BrenoMorim/cs50/blob/main/flask/finance/final-project.png?raw=true)
