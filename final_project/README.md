@@ -80,31 +80,31 @@ Using components is a great way to avoid code repetition, those are the componen
 
 #### Button - Generic and Customizable
 
-![Orange button](/project-images/button.png "Button")
+![Orange button](./project-images/button.png "Button")
 
 #### Logo
 
-![Logo](/project-images/logo.png "Logo")
+![Logo](./project-images/logo.png "Logo")
 
 #### Selection Menu
 
-![Selection Menu](/project-images/selection-menu.png "Selection Menu")
+![Selection Menu](./project-images/selection-menu.png "Selection Menu")
 
 #### Game Image and Text - Illustrates your performance
 
-![Game Image](/project-images/GameImage.png "Game Image")
+![Game Image](./project-images/GameImage.png "Game Image")
 
 #### Keyboard
 
-![Keyboard](/project-images/keyboard.png "Keyboard")
+![Keyboard](./project-images/keyboard.png "Keyboard")
 
 #### Final Screen (when you win)
 
-![Final Screen for victory](/project-images/final-screen-won.png "When you win")
+![Final Screen for victory](./project-images/final-screen-won.png "When you win")
 
 #### Final Screen (when you lose)
 
-![Final Screen for defeat](/project-images/final-screen-lost.png "When you lose")
+![Final Screen for defeat](./project-images/final-screen-lost.png "When you lose")
 
 ---
 
